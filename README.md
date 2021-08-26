@@ -27,4 +27,8 @@ Este directorio contiene todo el código de base que se entrega para el funciona
 
     |-- Utils: Funciones auxiliares para el funcionamiento de los TADs y estructuras de datos
 
+Estudiante 1: David Alejandro Fuquen
+Estudiante 2: Juan Andrés Eslava
 
+David Alejandro Fuquen Flórez - d.fuquen@uniandes.edu.co - 202021113
+Juan Andrés Eslava Tovar - j.eslava@uniandes.edu.co - 202012035
